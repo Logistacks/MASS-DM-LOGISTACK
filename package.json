@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "Logistack",
+  "author": "Logistacks",
   "license": "MIT",
   "dependencies": {
     "discord.js": "^12.5.3",
