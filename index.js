@@ -1,8 +1,9 @@
 const Discord = require('discord.js');
 const client = new Discord.Client({ ws: { intents: new Discord.Intents(Discord.Intents.ALL) } });
-const prefix = "!!";
 const keepAlive = require('./server')
 
+// bot prefix
+const prefix = "!!";
 
 client.on("ready", () => {
   console.log(`The bot is working properly, no errors occurred.
