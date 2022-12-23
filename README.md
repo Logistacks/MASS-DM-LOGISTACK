@@ -1,6 +1,6 @@
 # 🔰 DM-Mass-Bot
 
-# How To Run Bot?
+# How To Install Bot and Make it Run?
 
 1.
 ```powershell
